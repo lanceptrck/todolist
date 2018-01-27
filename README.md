@@ -17,7 +17,8 @@ A simple to-do list web app using REST API
 1. Navigate through your wamp or xampp folders and place the folder named 'project' in the folder where source codes are being ran. (www folder for wamp)
 
 #### Database Setup
-1. Open wamp or xampp then navigate to localhost/phpmyadmin then login using your username and password
+1. Startup wamp or xampp and then open your favorite browser
+2. Navigate to http://localhost/phpmyadmin then login using your username and password
 2. After logging in, navigate through the toolbar and click 'Import'
 3. You will see a 'Choose file' button, click this, and find the directory where the code is placed
 4. Choose the api_db.sql as the file to import, don't change anything in the option below and press 'Go'
@@ -32,7 +33,7 @@ A simple to-do list web app using REST API
 #### Running the To-do list app
 1. Make sure your wamp/xampp is running
 2. Open your favorite browser
-3. Type in localhost/project/api
+3. Type in http://localhost/project/api
 4. Enjoy the simple to-do list app
 
 ## Acknowledgements
