@@ -14,7 +14,7 @@ A simple to-do list web app using REST API
 ### Installing
 
 #### Directory Placing
-1. Navigate through your wamp or xampp folders and place the contents of the downloaded code in the folder where source codes are being ran. (www folder for wamp)
+1. Navigate through your wamp or xampp folders and place the folder named 'project' in the folder where source codes are being ran. (www folder for wamp)
 
 #### Database Setup
 1. Open wamp or xampp then navigate to localhost/phpmyadmin then login using your username and password
@@ -25,8 +25,15 @@ A simple to-do list web app using REST API
 
 #### Application Setup
 1. Go to the directory where the web applcation is located
-2. Go to 
+2. Go to project/api/config and then open database.php file
+3. In lines 7 & 8, change the username and password to your own database's and hit save
+4. You can now run the web app
 
+#### Running the To-do list app
+1. Make sure your wamp/xampp is running
+2. Open your favorite browser
+3. Type in localhost/project/api
+4. Enjoy the simple to-do list app
 
 ## Acknowledgements
 1. https://gist.github.com/PurpleBooth/109311bb0361f32d87a2 serves as a guide to create this README.md
