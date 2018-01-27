@@ -25,7 +25,7 @@ A simple to-do list web app using REST API
 5. You now have the database in your own machine.
 
 #### Application Setup
-1. Go to the directory where the web applcation is located
+1. Go to the directory where the web application is located
 2. Go to project/api/config and then open database.php file
 3. In lines 7 & 8, change the username and password to your own database's and hit save
 4. You can now run the web app
